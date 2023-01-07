@@ -5,4 +5,4 @@ Forum based Learning system Repo. You're welcome to contribute any time. Let's b
 We welcome teachers over the world. If you want us to post your tutorial & content make sure to mail us at : infinitycreators69@gmail.com
 
 # Have questions?
-Create a issue or join our community at:  <a href='t.me/InfinityCreatorsChat'>Telegram</a>!
+Create a issue or join our community at:  <a href='https://t.me/InfinityCreatorsChat'>Telegram </a>!
